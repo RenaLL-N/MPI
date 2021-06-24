@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\System\Projects\Parallel_Programming\MPI\MPI\Source.cpp(41,45): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\System\Projects\Parallel_Programming\MPI\MPI\Source.cpp(128,13): warning C4101: 'i': unreferenced local variable
+  MPI.vcxproj -> D:\System\Projects\Parallel_Programming\MPI\Debug\MPI.exe
